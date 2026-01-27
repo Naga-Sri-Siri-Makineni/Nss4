@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hi,%20I'm%20[Your%20Name]!%20📊&fontSize=60&animation=fadeIn" />
+ <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hi,%20I'm%20makineninagasrisiri!%20📊&fontSize=60&animation=fadeIn" />
 
   <h3>🚀 Aspiring Data Analyst | Transforming Raw Data into Strategic Decisions</h3>
   
@@ -76,7 +76,7 @@ I am a Data Analyst aspirant with a strong foundation in statistical reasoning a
 ---
 
 <div align="center">
-  <a href="www.linkedin.com/in/nagasrisirimakineni">
+  <a href="https://www.linkedin.com/in/nagasrisirimakineni/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </div>
