@@ -1,7 +1,10 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hi,%20I'm%20makineninagasrisiri!%20📊&fontSize=60&animation=fadeIn" />
+  <img src="https://static.vecteezy.com/system/resources/previews/025/500/634/large_2x/digital-business-image-with-graphs-and-diagrams-over-blue-background-3d-rendering-business-data-analysis-and-analytics-of-customers-ai-generated-free-photo.jpg" width="300" />
+  <h1>Hi, I'm makineninagasrisiri! 📊</h1>
+  <h3>Aspiring Data Analyst | Python | SQL | Power BI| Advanced Excel | Statistics</h3>
+</div>
 
-  <h3>🚀 Aspiring Data Analyst | Transforming Raw Data into Strategic Decisions</h3>
+  <h3>🚀 Transforming Raw Data into Strategic Decisions</h3>
   
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" />
@@ -60,7 +63,7 @@ I am a Data Analyst aspirant with a strong foundation in statistical reasoning a
       <a href="LINK_TO_REPO">📂 View Project</a>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJtZmx4bmR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjP87vI01546E/giphy.gif" width="200" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJtZmx4bmR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjP87vI01546E/giphy.gi" width="200" />
     </td>
   </tr>
 </table>
