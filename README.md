@@ -40,7 +40,7 @@ I am a Data Analyst aspirant with a strong foundation in statistical reasoning a
     <td>
       <b>🐍 Python: Exploratory Data Analysis</b><br>
       Analyzed [Project Subject] using Pandas/Seaborn. Identified 3 key trends that could impact [Business Goal].<br>
-      <a href="LINK_TO_REPO">📂 View Project</a>
+      <a href="regex-Copy1 (8).ipynb">📂 View Project</a>
     </td>
     <td>
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJtZmx4bmR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
