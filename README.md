@@ -78,7 +78,7 @@ I am a Data Analyst aspirant with a strong foundation in statistical reasoning a
   </tr>
   <tr>
     <td>
-      <b>📊 Power BI: Executive Dashboard</b><br>
+      <b>📊Telangana State Weather Data Analysis | Power BI</b><br>
       Developed an end-to-end interactive dashboard. Automated data refresh and used DAX for complex KPIs.<br>
       <a href="weather data project.pbix">📂 View Project</a>
     </td>
