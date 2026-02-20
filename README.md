@@ -50,7 +50,7 @@ I am a Data Analyst aspirant with a strong foundation in statistical reasoning a
    
  * Built visualizations using Matplotlib and Seaborn to compare brand performance and technology adoption.  Derived data-driven insights explaining why Livpure demonstrated stronger market positioning.
    
-      <a href="regex-Copy1 (8).ipynb">📂 View Project</a>
+      <a href="regex-Copy1 (7).zip">📂 View Project</a>
     </td>
     <td>
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJtZmx4bmR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
