@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/025/500/634/large_2x/digital-business-image-with-graphs-and-diagrams-over-blue-background-3d-rendering-business-data-analysis-and-analytics-of-customers-ai-generated-free-photo.jpg" width="300" />
   <h1>Hi, I'm Makineni Naga Sri Siri! 📊</h1>
-  <h3>Aspiring Data Analyst | Python | SQL | Power BI| Advanced Excel | Statistics</h3>
+  <h3>Data Analyst | Python | SQL | Power BI| Advanced Excel | Statistics</h3>
 </div>
 
   <h3>🚀 Transforming Raw Data into Strategic Decisions</h3>
