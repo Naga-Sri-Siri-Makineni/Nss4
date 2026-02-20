@@ -69,7 +69,7 @@ I am a Data Analyst aspirant with a strong foundation in statistical reasoning a
 * Analyzed foreign key relationships across tables to ensure accurate data extraction and reporting.
   
 * Generated insights to optimize book allocation and improve branch-level resource utilization.
-      <a href="LINK_TO_REPO">📂 View Project</a>
+      <a href="library sql project.zip">📂 View Project</a>
     </td>
     <td>
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZicGZwaGZwaGZwaGZwaGZwaGZwaGZwaGZwaGZwaGZwaGZwaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
