@@ -58,7 +58,7 @@ I am a Data Analyst aspirant with a strong foundation in statistical reasoning a
   </tr>
   <tr>
     <td>
-      <b>🛢️ SQL: Business Intelligence Querying</b><br>
+      <b>🛢️ Library Database Analysis | SQL</b><br>
       
 * Queried relational database using SQL (Joins, GROUP BY, Subqueries, CTEs, Window Functions) to analyze borrower and book activity.
    
