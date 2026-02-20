@@ -39,7 +39,17 @@ I am a Data Analyst aspirant with a strong foundation in statistical reasoning a
   <tr>
     <td>
       <b>🐍 Python: Exploratory Data Analysis</b><br>
-      Analyzed [Project Subject] using Pandas/Seaborn. Identified 3 key trends that could impact [Business Goal].<br>
+      
+  * Scraped 200+ product listings using Python (BeautifulSoup, Regex) and structured the dataset using Pandas.
+      
+ * Performed data cleaning, transformation, and validation to ensure consistency in pricing, ratings, and technical specifications.
+     
+ * Conducted Exploratory Data Analysis (EDA) to identify trends across storage capacity, pricing segments, and purification technology.
+    
+ * Identified that products priced between ₹6,000–₹8,000 with 7L storage showed highest consumer preference.
+   
+ * Built visualizations using Matplotlib and Seaborn to compare brand performance and technology adoption.  Derived data-driven insights explaining why Livpure demonstrated stronger market positioning.
+   
       <a href="regex-Copy1 (8).ipynb">📂 View Project</a>
     </td>
     <td>
