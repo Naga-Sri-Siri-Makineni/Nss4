@@ -69,7 +69,6 @@ I am a Data Analyst aspirant with a strong foundation in statistical reasoning a
 * Analyzed foreign key relationships across tables to ensure accurate data extraction and reporting.
   
 * Generated insights to optimize book allocation and improve branch-level resource utilization.
-  
       <a href="LINK_TO_REPO">📂 View Project</a>
     </td>
     <td>
@@ -79,7 +78,18 @@ I am a Data Analyst aspirant with a strong foundation in statistical reasoning a
   <tr>
     <td>
       <b>📊Telangana State Weather Data Analysis | Power BI</b><br>
-      Developed an end-to-end interactive dashboard. Automated data refresh and used DAX for complex KPIs.<br>
+    
+   * Imported and transformed multi-year weather dataset using Power Query in Power BI.  
+
+   * Developed dynamic dashboards with slicers for district-wise and seasonal comparisons. 
+
+   * Created DAX measures to calculate averages, anomalies, correlations, and trend analysis. 
+
+   * Visualized rainfall distribution, temperature anomalies, humidity fluctuations, and wind speed patterns.  
+
+   * Identified seasonal shifts and high-risk zones for extreme weather conditions through trend analysis.  
+
+  * Delivered an interactive weather intelligence dashboard for data-driven regional insights.
       <a href="weather data project.pbix">📂 View Project</a>
     </td>
     <td>
