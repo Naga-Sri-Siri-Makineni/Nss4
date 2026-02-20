@@ -59,7 +59,17 @@ I am a Data Analyst aspirant with a strong foundation in statistical reasoning a
   <tr>
     <td>
       <b>🛢️ SQL: Business Intelligence Querying</b><br>
-      Created complex Joins, CTEs, and Window Functions to extract performance metrics from a [Type] database.<br>
+      
+* Queried relational database using SQL (Joins, GROUP BY, Subqueries, CTEs, Window Functions) to analyze borrower and book activity.
+   
+* Extracted overdue patterns, branch-level inventory distribution, and high-frequency borrower behavior.
+   
+* Used aggregate functions and CASE statements to segment borrowers based on activity levels.
+  
+* Analyzed foreign key relationships across tables to ensure accurate data extraction and reporting.
+  
+* Generated insights to optimize book allocation and improve branch-level resource utilization.
+  
       <a href="LINK_TO_REPO">📂 View Project</a>
     </td>
     <td>
